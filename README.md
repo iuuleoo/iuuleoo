@@ -1,5 +1,9 @@
 ## 👋 Hey there! I'm iuuleoo
 
+📚 About Me
+
+🔥 I'm learning more about artificial intelligence.
+
 <!--
 **iuuleoo/iuuleoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
