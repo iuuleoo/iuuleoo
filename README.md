@@ -26,12 +26,12 @@
   <img src="assets/css.svg" height="16" />
   <img src="assets/aws.svg" height="16" />
   <img src="assets/python.svg" height="16" />
-  <img src="assets/react.svg" height="16" />
   <img src="assets/html.svg" height="16" />
   <img src="assets/docker.svg" height="16" />
   <img src="assets/node.svg" height="16" />
   <img src="assets/tailwind.svg" height="16" />
   <img src="assets/reactnative.svg" height="16" />
+  <img src="assets/react.svg" height="16" />
   <img src="assets/reactcode.svg" height="16" />
   <img src="assets/reactprofiling.svg" height="16" />
   <img src="assets/reactwindow.svg" height="16" />
