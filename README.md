@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/iuuleoo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Explorando+IA%2C+.NET;Frontend+Developer+%26+UI+Enthusiast;Docker+%26+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Alura;AWS+CloudFormation;Frontend+Developer+%26+UI+Enthusiast;Docker+%26+Web" alt="Typing SVG" />
 </a>
 </p>
 
