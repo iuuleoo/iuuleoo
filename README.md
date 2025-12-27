@@ -25,6 +25,8 @@
   <img src="assets/javascript.svg" height="16" />
   <img src="assets/css.svg" height="16" />
   <img src="assets/aws.svg" height="16" />
+  <img src="assets/UsingContextt.svg" height="16" />
+  <img src="assets/Optimized.svg" height="16" />
   <img src="assets/python.svg" height="16" />
   <img src="assets/virtualisedd.svg" height="16" />
   <img src="assets/html.svg" height="16" />
@@ -36,6 +38,7 @@
   <img src="assets/reactcode.svg" height="16" />
   <img src="assets/reactprofiling.svg" height="16" />
   <img src="assets/reactwindow.svg" height="16" />
+  <img src="assets/Hooks.svg" height="16" />
   <img src="assets/typescript.svg" height="16" />
   <img src="assets/ReactQuery.svg" height="16" />
   <img src="assets/ReactCra.svg" height="16" />
