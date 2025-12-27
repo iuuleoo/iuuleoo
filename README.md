@@ -26,6 +26,7 @@
   <img src="assets/css.svg" height="16" />
   <img src="assets/aws.svg" height="16" />
   <img src="assets/python.svg" height="16" />
+  <img src="assets/virtualisedd.svg" height="16" />
   <img src="assets/html.svg" height="16" />
   <img src="assets/docker.svg" height="16" />
   <img src="assets/node.svg" height="16" />
@@ -45,4 +46,6 @@
   <img src="assets/Sqlite.svg" height="16" />
   <img src="assets/cleancode.svg" height="16" />
   <img src="assets/mySql.svg" height="16" />
+  <img src="assets/query.svg" height="16" />
+  <img src="assets/express.svg" height="16" />
 </p>
