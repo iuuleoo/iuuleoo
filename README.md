@@ -30,7 +30,9 @@
   <img src="assets/python.svg" height="16" />
   <img src="assets/virtualisedd.svg" height="16" />
   <img src="assets/html.svg" height="16" />
+  <img src="assets/Jquery.svg" height="16" />
   <img src="assets/docker.svg" height="16" />
+  <img src="assets/Sass.svg" height="16" />
   <img src="assets/node.svg" height="16" />
   <img src="assets/tailwind.svg" height="16" />
   <img src="assets/reactnative.svg" height="16" />
