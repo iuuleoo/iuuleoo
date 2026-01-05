@@ -51,6 +51,5 @@
   <img src="assets/Sqlite.svg" height="16" />
   <img src="assets/cleancode.svg" height="16" />
   <img src="assets/mySql.svg" height="16" />
-  <img src="assets/query.svg" height="16" />
   <img src="assets/express.svg" height="16" />
 </p>
