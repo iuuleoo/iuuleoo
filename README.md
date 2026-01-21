@@ -32,7 +32,7 @@
   <img src="assets/html.svg" height="16" />
   <img src="assets/Jquery.svg" height="16" />
   <img src="assets/docker.svg" height="16" />
-  <img src="assets/Sass.svg" height="16" />
+  <img src="assets/Redux.svg" height="16" />
   <img src="assets/node.svg" height="16" />
   <img src="assets/tailwind.svg" height="16" />
   <img src="assets/reactnative.svg" height="16" />
@@ -45,6 +45,7 @@
   <img src="assets/ReactQuery.svg" height="16" />
   <img src="assets/ReactCra.svg" height="16" />
   <img src="assets/postgress.svg" height="16" />
+  <img src="assets/Sass.svg" height="16" />
   <img src="assets/nextjs.svg" height="16" />
   <img src="assets/usingcontext.svg" height="16" />
   <img src="assets/bash.svg" height="16" />
@@ -53,4 +54,5 @@
   <img src="assets/mySql.svg" height="16" />
   <img src="assets/query.svg" height="16" />
   <img src="assets/express.svg" height="16" />
+  <img src="assets/Solid.svg" height="16" />
 </p>
