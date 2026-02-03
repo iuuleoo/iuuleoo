@@ -3,11 +3,10 @@
     <td align="center">
       <!-- Hello Leo typing -->
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=hello!+i'm+leo" 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&random=false&width=320&height=40&lines=hello!+i'm+leo" 
         alt="Typing SVG" 
       />
       <br/><br/>
-    </td>
   </tr>
 </table>
 
