@@ -12,7 +12,7 @@
 
 # About Me:
 
-Hi! 👋 My name is Leo, and I’m a Computer Engineering student, currently taking a course in Analysis and System Development at Alura. I’m passionate about Full Stack development, with a focus on frontend technologies, while also exploring back-end, data, and AI solutions.<br><br>💻 Technical Skills:<br><br>Frontend: Next.js, React.js, HTML, CSS, JavaScript<br><br>Backend & AI: Python, APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: AWS, Git, VS Code, GitHub<br><br>
+Hi! My name is Leo, and I’m a Computer Engineering student, currently taking a course in Analysis and System Development at Alura. I’m passionate about Full Stack development, with a focus on frontend technologies, while also exploring back-end, data, and AI solutions.<br><br>💻 Technical Skills:<br><br>Frontend: Next.js, React.js, HTML, CSS, JavaScript<br><br>Backend & AI: Python, APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: AWS, Git, VS Code, GitHub<br><br>
 🚀 Projects & Experience:<br><br>Reimbursement System – Built a complete system to manage and automate reimbursements in a corporate environment<br><br>Banho&TosaPet – Landing page / Institutional site for a pet shop with responsive design and user-friendly interface<br><br>Academic and personal projects in back-end, data analysis, and AI solutions<br><br>🌱 Currently:<br><br>
 Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web technologies, cloud solutions, and data visualization<br><br>Building projects that combine functionality, intelligence, and user experience<br><br>📫 Connect with me:<br>GitHub: iuuleoo | Linkedin: iuleoo
 
