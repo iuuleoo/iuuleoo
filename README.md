@@ -1,16 +1,19 @@
-# Leo
+<table>
+<tr>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=hello,+i'm+leo" alt="Typing SVG" 
+/>
+<br/><br/>
+</tr>
+</table>
 
-**`Desenvolvedor FullStack`**
+# About Me:
 
-<p align="center">
-<a href="https://github.com/iuuleoo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=AWS;Frontend+Developer+%26+UI+Enthusiast;Docker+%26+Web" alt="Typing SVG" />
-</a>
-</p>
+Hi! 👋 My name is Leo, and I’m a Computer Engineering student, currently taking a course in Analysis and System Development at Alura. I’m passionate about Full Stack development, with a focus on frontend technologies, while also exploring back-end, data, and AI solutions.<br><br>💻 Technical Skills:<br><br>Frontend: Next.js, React.js, HTML, CSS, JavaScript<br><br>Backend & AI: Python, APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: AWS, Git, VS Code, GitHub<br><br>
+🚀 Projects & Experience:<br><br>Reimbursement System – Built a complete system to manage and automate reimbursements in a corporate environment<br><br>Banho&TosaPet – Landing page / Institutional site for a pet shop with responsive design and user-friendly interface<br><br>Academic and personal projects in back-end, data analysis, and AI solutions<br><br>🌱 Currently:<br><br>
+Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web technologies, cloud solutions, and data visualization<br><br>Building projects that combine functionality, intelligence, and user experience<br><br>📫 Connect with me:<br>GitHub: iuuleoo | Linkedin: iuleoo
 
----
-
-### 🛠️ Tecnologias e Ferramentas Favoritas
+# 💻 Tech Stack:
 
 <p
   style="
@@ -57,3 +60,15 @@
   <img src="assets/Solid.svg" height="16" />
   <img src="assets/pandas.svg" height="16" />
 </p>
+
+![Garchomp GIF](https://media.tenor.com/PO8RHMM6B5kAAAAj/garchomp-pok%C3%A9mon-pok%C3%A9mon.gif)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=iuuleoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iuuleoo&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuuleoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=iuuleoo&icon=2&color=5)](https://iuleoo.in/)
