@@ -64,7 +64,7 @@ Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web t
   <img src="assets/pandas.svg" height="16" />
 </p>
 
-![Garchomp GIF](https://media.tenor.com/PO8RHMM6B5kAAAAj/garchomp-pok%C3%A9mon-pok%C3%A9mon.gif)
+<img src="gif/mew-pixel.gif" alt="Mewtwo GIF" />
 
 # 📊 GitHub Stats:
 
