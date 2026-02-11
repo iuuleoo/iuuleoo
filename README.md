@@ -61,7 +61,13 @@ Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web t
   <img src="assets/mySql.svg" height="16" />
   <img src="assets/express.svg" height="16" />
   <img src="assets/Solid.svg" height="16" />
+  <img src="assets/Amazon.svg" height="16" />
+  <img src="assets/AWS Dynamo.svg" height="16" />
+  <img src="assets/Gimp.svg" height="16" />
+  <img src="assets/Mocha.svg" height="16" />
+  <img src="assets/Photoshop.svg" height="16" />
   <img src="assets/pandas.svg" height="16" />
+  <img src="assets/Lua.svg" height="16" />
 </p>
 
 <img src="gif/mew-pixel.gif" alt="Mewtwo GIF" />
