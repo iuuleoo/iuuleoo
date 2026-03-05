@@ -43,6 +43,7 @@ Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web t
   <img src="assets/shell.svg" height="16" />
   <img src="assets/node.svg" height="16" />
   <img src="assets/tailwind.svg" height="16" />
+  <img src="assets/php.svg" height="16" />
   <img src="assets/reactnative.svg" height="16" />
   <img src="assets/react.svg" height="16" />
   <img src="assets/reactcode.svg" height="16" />
