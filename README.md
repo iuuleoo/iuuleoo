@@ -77,7 +77,6 @@ Enhancing my backend, data engineering, and AI skills<br><br>Exploring new web t
 
 ![](https://github-readme-stats.vercel.app/api?username=iuuleoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iuuleoo&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuuleoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
