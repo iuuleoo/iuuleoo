@@ -3,15 +3,13 @@
     display: flex;
     flex-wrap: wrap;
     gap: 11px;
-    max-width: 760px;
+    max-width: 800px;
     align-items: center;
     margin-top: 8px;
   "
 >
-  <img src="assets/javascript.svg" height="16" />
-  <img src="assets/css.svg" height="16" />
-  <img src="assets/aws.svg" height="16" />
   <img src="assets/nextjs.svg" height="16" />
+  <img src="assets/aws.svg" height="16" />
   <img src="assets/UsingContextt.svg" height="16" />
   <img src="assets/Optimized.svg" height="16" />
   <img src="assets/python.svg" height="16" />
@@ -21,6 +19,8 @@
   <img src="assets/docker.svg" height="16" />
   <img src="assets/Redux.svg" height="16" />
   <img src="assets/shell.svg" height="16" />
+  <img src="assets/javascript.svg" height="16" />
+  <img src="assets/css.svg" height="16" />
   <img src="assets/node.svg" height="16" />
   <img src="assets/tailwind.svg" height="16" />
   <img src="assets/php.svg" height="16" />
