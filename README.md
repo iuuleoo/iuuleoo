@@ -44,10 +44,14 @@
   <img src="assets/Solid.svg" height="16" />
   <img src="assets/Amazon.svg" height="16" />
   <img src="assets/AWS Dynamo.svg" height="16" />
+  <img src="assets/flask.svg" height="16" />
+  <img src="assets/.net.svg" height="16" />
   <img src="assets/Gimp.svg" height="16" />
   <img src="assets/Mocha.svg" height="16" />
   <img src="assets/Photoshop.svg" height="16" />
   <img src="assets/pandas.svg" height="16" />
+  <img src="assets/bootstrap.svg" height="16" />
+  <img src="assets/net.svg" height="16" />
   <img src="assets/Lua.svg" height="16" />
 </p>
 
