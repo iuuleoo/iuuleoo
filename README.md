@@ -1,5 +1,3 @@
-# 💻 Tech Stack:
-
 <p
   style="
     display: flex;
