@@ -55,4 +55,4 @@
   <img src="assets/Lua.svg" height="16" />
 </p>
 
-<img src="gif/mew-pixel.gif" alt="Mewtwo GIF" />
+<img src="gif/cat.gif" alt="cat GIF" />
