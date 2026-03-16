@@ -2,8 +2,8 @@
   style="
     display: flex;
     flex-wrap: wrap;
-    gap: 11px;
-    max-width: 800px;
+    gap: 12px;
+    max-width: 860px;
     align-items: center;
     margin-top: 8px;
   "
