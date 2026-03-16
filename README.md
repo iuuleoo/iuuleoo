@@ -55,6 +55,4 @@
   <img src="assets/Lua.svg" height="16" />
 </p>
 
-<p align="center">
-  <img src="gif/cat.gif" alt="cat GIF" />
-</p>
+<img src="gif/cat.gif" alt="cat GIF" />
