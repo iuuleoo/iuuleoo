@@ -54,5 +54,3 @@
   <img src="assets/net.svg" height="16" />
   <img src="assets/Lua.svg" height="16" />
 </p>
-
-<img src="gif/cat.gif" alt="cat GIF" />
