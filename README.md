@@ -52,6 +52,7 @@
   <img src="assets/pandas.svg" height="16" />
   <img src="assets/bootstrap.svg" height="16" />
   <img src="assets/net.svg" height="16" />
+  <img src="assets/Azure.svg" height="16" />
   <img src="assets/Lua.svg" height="16" />
 </p>
 
