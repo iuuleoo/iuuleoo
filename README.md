@@ -14,6 +14,8 @@
   <img src="assets/css.svg" height="22" />
   <img src="assets/node.svg" height="22" />
   <img src="assets/tailwind.svg" height="22" />
+  <img src="assets/Iot.svg" height="22" />
+   <img src="assets/recoil.svg" height="22" />
   <img src="assets/php.svg" height="22" />
   <img src="assets/reactnative.svg" height="22" />
   <img src="assets/react.svg" height="22" />
@@ -37,6 +39,7 @@
   <img src="assets/AWS Dynamo.svg" height="22" />
   <img src="assets/flask.svg" height="22" />
   <img src="assets/.net.svg" height="22" />
+  <img src="assets/Marketing.svg" height="22" />
   <img src="assets/Gimp.svg" height="22" />
   <img src="assets/Mocha.svg" height="22" />
   <img src="assets/Photoshop.svg" height="22" />
